@@ -15,3 +15,7 @@ Real estate management software application for businesses. Use product search a
 - Host management , filter host
 - OCR scan Contract (future)
 - Robot AI (future)
+
+#Demo 
+https://lighthearted-biscotti-304d75.netlify.app/auth/sign-in 
+Account : name = admin1 , password : toiyeudanang
