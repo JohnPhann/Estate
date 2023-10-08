@@ -9,7 +9,9 @@ Real estate management software application for businesses. Use product search a
 #Feature
 - Sale home , filter sale home , check duplicate home , CRUD sale home
 - Hire home , filter hire home , check duplocate home , CRUD hire home
-- Customer management , filter management
+- Sale management , filter Sale
+- Staff management , filter staff
+- Customer management , filter customer
 - Host management , filter host
 - OCR scan Contract (future)
 - Robot AI (future)
